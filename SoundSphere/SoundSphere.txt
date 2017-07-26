@@ -1,0 +1,230 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "SoundSphere",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Sound Reactive",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Beat Info",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Show Sphere",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Rotation",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Zoom",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "On-Sphere",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Fixed Start",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Random Color",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Point Color",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Show Lines",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Triangle Only",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "No Triangles",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Particles",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 500.00,
+			"DEFAULT": 100.00
+		},
+		{
+			"NAME": "xPos",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 800.00,
+			"DEFAULT": 400.00
+		},
+		{
+			"NAME": "yPos",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 450.00,
+			"DEFAULT": 225.00
+		},
+		{
+			"NAME": "zPos",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 500.00,
+			"DEFAULT": 200.00
+		},
+		{
+			"NAME": "RotateX Speed",
+			"TYPE": "float",
+			"MIN": 0.001,
+			"MAX": 0.05,
+			"DEFAULT": 0.005
+		},
+		{
+			"NAME": "RotateY Speed",
+			"TYPE": "float",
+			"MIN": 0.001,
+			"MAX": 0.05,
+			"DEFAULT": 0.005
+		},
+		{
+			"NAME": "radiusMin",
+			"TYPE": "float",
+			"MIN": 30.00,
+			"MAX": 130.00,
+			"DEFAULT": 75.00
+		},
+		{
+			"NAME": "radiusMax",
+			"TYPE": "float",
+			"MIN": 50.00,
+			"MAX": 150.00,
+			"DEFAULT": 90.00
+		},
+		{
+			"NAME": "minZoom",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 500.00,
+			"DEFAULT": 180.00
+		},
+		{
+			"NAME": "maxZoom",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 500.00,
+			"DEFAULT": 350.00
+		},
+		{
+			"NAME": "Zoom Speed",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 2.00,
+			"DEFAULT": 0.2
+		},
+		{
+			"NAME": "Sphere ColH",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 360.00,
+			"DEFAULT": 0.00
+		},
+		{
+			"NAME": "Sphere ColS",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 0.00
+		},
+		{
+			"NAME": "Sphere ColB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 100.00
+		},		
+		{
+			"NAME": "Sphere ColA",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 40.00
+		},
+		{
+			"NAME": "Sphere Details",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 20.00
+		},
+		{
+			"NAME": "Theta Speed",
+			"TYPE": "float",
+			"MIN": 0.005,
+			"MAX": 0.03,
+			"DEFAULT": 0.01
+		},
+		{
+			"NAME": "Phi Speed",
+			"TYPE": "float",
+			"MIN": 0.005,
+			"MAX": 0.03,
+			"DEFAULT": 0.01
+		},
+		{
+			"NAME": "Particle ColH",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 360.00,
+			"DEFAULT": 0.00
+		},
+		{
+			"NAME": "Particle ColS",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 0.00
+		},
+		{
+			"NAME": "Particle ColB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 80.00
+		},	
+                {	
+			"NAME": "Particle ColA",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 90.00
+		},
+		{	
+			"NAME": "Min Distance",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 25.00
+		},
+	],
+}*/

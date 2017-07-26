@@ -1,0 +1,79 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "DancingSticks",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{	
+			"NAME": "A-Increment",
+			"TYPE": "float",
+			"MIN": 0.01,
+			"MAX": 0.09,
+			"DEFAULT": 0.05
+		},
+		{	
+			"NAME": "B-Increment",
+			"TYPE": "float",
+			"MIN": 0.10,
+			"MAX": 0.20,
+			"DEFAULT": 0.17
+		},
+		{	
+			"NAME": "Multiplier",
+			"TYPE": "float",
+			"MIN": 10.00,
+			"MAX": 200.00,
+			"DEFAULT": 100.00
+		},
+		{	
+			"NAME": "Drawer",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 20.00,
+			"DEFAULT": 18.00
+		},
+		{	
+			"NAME": "Lines",
+			"TYPE": "float",
+			"MIN": 2.00,
+			"MAX": 25.00,
+			"DEFAULT": 8.00
+		},
+		{	
+			"NAME": "Hue-Range-Low",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 360.00,
+			"DEFAULT": 80.00
+		},
+		{	
+			"NAME": "Hue-Range-High",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 360.00,
+			"DEFAULT": 140.00
+		},
+		{	
+			"NAME": "Saturation",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 80.00
+		},
+		{	
+			"NAME": "Brightness",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 80.00
+		},
+		{	
+			"NAME": "Alpha",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 255.00,
+			"DEFAULT": 10.00
+		},
+	],
+}*/

@@ -1,0 +1,40 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "VStreamSphere",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Collision D.",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Sound Reactive",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Sphere Count",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 30.00,
+			"DEFAULT": 5.00
+		},
+		{
+			"NAME": "Sphere Radius",
+			"TYPE": "float",
+			"MIN": 50.00,
+			"MAX": 250.00,
+			"DEFAULT": 100.00
+		},
+		{
+			"NAME": "Sphere Rotation",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 1.00,
+			"DEFAULT": 0.10
+		},
+	],
+}*/

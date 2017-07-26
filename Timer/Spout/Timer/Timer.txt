@@ -1,0 +1,55 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "Timer",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "Show Millis",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Show Animation",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Fonts",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 10.00,
+			"DEFAULT": 1.00
+		},
+		{
+			"NAME": "Size",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 3.00,
+			"DEFAULT": 2.00
+		},
+		{
+			"NAME": "Text Align",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 9.00,
+			"DEFAULT": 5.00
+		},
+		{
+			"NAME": "Timer",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Restart Timer",
+			"TYPE": "event",
+			"DEFAULT": 0
+		},
+	    {
+			"NAME": "Loop Video",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+	],
+}*/

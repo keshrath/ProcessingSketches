@@ -1,0 +1,110 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "ImageSlider",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{
+			"NAME": "FPS",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 60.00,
+			"DEFAULT": 60.00
+		},
+		{
+			"NAME": "Path",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Clear list",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Random image",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Beat reactive",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Minimum time",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 300.00,
+			"DEFAULT": 5.00
+		},
+		{
+			"NAME": "Maximum time",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 600.00,
+			"DEFAULT": 60.00
+		},
+		{
+			"NAME": "Resize image",
+			"TYPE": "bool",
+			"DEFAULT": 1
+		},
+		{
+			"NAME": "Fit image",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Blend mode",
+			"TYPE": "text",
+			"TEXT": "REPLACE"
+		},
+		{
+			"NAME": "Kick reactive",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Kick Filter",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Kick Param",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Snare reactive",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Snare Filter",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Snare Param",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Hat reactive",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{
+			"NAME": "Hat Filter",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+		{
+			"NAME": "Hat Param",
+			"TYPE": "text",
+			"TEXT": ""
+		},
+	],
+}*/

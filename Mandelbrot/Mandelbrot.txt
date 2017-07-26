@@ -1,0 +1,103 @@
+/*{
+	"CREDIT": "Mathias Markl",
+	"DESCRIPTION": "Mandelbrot",
+	"CATEGORIES": [
+	"Parameter adjustment"
+	],
+	"INPUTS": [
+		{	
+			"NAME": "X-Pos",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 800.00,
+			"DEFAULT": 219.72
+		},
+		{	
+			"NAME": "Y-Pos",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 800.00,
+			"DEFAULT": 400.00
+		},
+		{	
+			"NAME": "Zoom-Factor",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 5.00,
+			"DEFAULT": 4.00
+		},
+		{	
+			"NAME": "Max-Iterations",
+			"TYPE": "float",
+			"MIN": 1.00,
+			"MAX": 1000.00,
+			"DEFAULT": 200.00
+		},
+		{	
+			"NAME": "HueLowerB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 360.00,
+			"DEFAULT": 201.00
+		},
+		{	
+			"NAME": "HueUpperB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 360.00,
+			"DEFAULT": 210.00
+		},
+		{	
+			"NAME": "SaturationLowerB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 80.00
+		},
+		{	
+			"NAME": "SaturationUpperB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 100.00
+		},
+		{	
+			"NAME": "BrightnessLowerB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 0.00
+		},
+		{	
+			"NAME": "BrightnessUpperB",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 100.00,
+			"DEFAULT": 95.00
+		},
+		{	
+			"NAME": "Zoom",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+		{	
+			"NAME": "Zoom-Iterations",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 500.00,
+			"DEFAULT": 60.00
+		},
+		{	
+			"NAME": "Zoom-Speed",
+			"TYPE": "float",
+			"MIN": 0.00,
+			"MAX": 1000.00,
+			"DEFAULT": 10.00
+		},
+		{	
+			"NAME": "Hint",
+			"TYPE": "bool",
+			"DEFAULT": 0
+		},
+	],
+}*/
